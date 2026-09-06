@@ -17,6 +17,5 @@ A Streamlit application for exploring the Kaggle "Titanic - Machine Learning fro
 - **Single passenger prediction**  
   Enter a passenger’s details to obtain a survival probability. For Logistic Regression, shows per‑feature contributions; for Random Forest, shows global feature importances.
 
-- **Batch prediction**  
-  Generate a Kaggle‑format `submission.csv` from a test file using the selected model.
+
 
