@@ -20,9 +20,3 @@ A Streamlit application for exploring the Kaggle "Titanic - Machine Learning fro
 - **Batch prediction**  
   Generate a Kaggle‑format `submission.csv` from a test file using the selected model.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/titanic-manifest-analysis.git
-   cd titanic-manifest-analysis
