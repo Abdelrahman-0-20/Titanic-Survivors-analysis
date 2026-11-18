@@ -1,4 +1,7 @@
 # Titanic-Survivors-analysis
+
+**Live app:** https://titanic-survivors-analysis-muv58p3twqptgmguavekeg.streamlit.app/
+
 # RMS Titanic - Passenger Manifest Analysis
 
 A Streamlit application for exploring the Kaggle "Titanic - Machine Learning from Disaster" dataset. It performs data cleaning, visualizes survival patterns, evaluates classification models with honest cross-validation, and provides both single‑passenger prediction and batch submission generation.
